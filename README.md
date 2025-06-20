@@ -15,6 +15,30 @@
 
 ---
 
+## 🔧 Technologies & Tools I Use
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Liquid-E44D26?style=for-the-badge&logo=liquid&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Make.com-purple?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-SEO-3E8E41?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/-E--commerce-blue?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/-Dropshipping-orange?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/-White%20Label-teal?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/-Private%20Label-brown?style=for-the-badge" />
+
+</div>
+
+---
+
 ## 💡 Skills & Expertise
 
 ### 💻 Front-End & Shopify Development
@@ -35,6 +59,23 @@
 
 ---
 
+## 💼 Work Experience
+
+**🛍️ E-commerce Developer – Freelance**  
+`Jan 2024 – Present`  
+- Developed and optimized custom Shopify themes using Liquid  
+- Automated order processing and customer emails using Make.com and Shopify Flow  
+- Set up WCAG-compliant Shopify stores with accessibility in mind  
+- Handled full setup of white-label and dropshipping stores for clients  
+
+**🎯 Facebook Ads Specialist – Freelance**  
+`July 2023 – Dec 2023`  
+- Launched and optimized ad campaigns for e-commerce clients  
+- Targeted niche audiences with A/B testing for better ROI  
+- Integrated Pixel tracking with Shopify stores  
+
+---
+
 ## 📂 Highlight Projects
 
 | Project | Description |
@@ -43,23 +84,6 @@
 | 🌐 [Starlink Devices - Shopify Store (PK)](#) | Conversion-focused custom product page |
 | 🤖 [AI Automated Shopify Workflow (Make.com)](#) | Automated abandoned cart emails & inventory sync |
 | 🎨 [WCAG-Compliant Shopify Theme](#) | Built with accessibility standards (AA) in mind |
-
----
-
-## 🔧 Tools I Use
-
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/-Liquid-E44D26?style=flat-square&logo=liquid&logoColor=white)
-![Make](https://img.shields.io/badge/-Make.com-purple?style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SEO](https://img.shields.io/badge/-SEO-3E8E41?style=flat-square)
-![Facebook Ads Marketing](https://img.shields.io/badge/-Facebook%20Ads-1877F2?style=flat-square&logo=facebook&logoColor=white)
-![E-commerce](https://img.shields.io/badge/-E--commerce-blue?style=flat-square)
-![Dropshipping](https://img.shields.io/badge/-Dropshipping-orange?style=flat-square)
-![White Label](https://img.shields.io/badge/-White%20Label-teal?style=flat-square)
-![Private Label](https://img.shields.io/badge/-Private%20Label-brown?style=flat-square)
 
 ---
 
@@ -75,8 +99,8 @@
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sherazakram17)
-- 📧 Email: sherazrajput68@gmail.com
-- 💼 Open to **freelance Shopify projects, AI automation consulting, and web development**
+- 📧 Email: sherazrajput68@gmail.com 
+- 💼 Open to Work **freelance Shopify projects, AI automation consulting, and web development**
 
 ---
 
