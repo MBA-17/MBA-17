@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sheraz Akram</h1>
 <h3 align="lft">Front-End Shopify & AI Automation Developer | Freelancer | E-commerce Specialist</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=MBA-17&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
