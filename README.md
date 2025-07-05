@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-**I’m a Shopify Developer specializing in custom theme development and full store setup. I build accessible websites that meet WCAG guidelines, ensuring usability for all users. With expertise in AI automation using Shopify Flow and Make.com, I streamline inventory, orders, and customer flows for e-commerce stores. I also run targeted Facebook Ads for private-label, white-label, and dropshipping brands—helping businesses grow with smart marketing and automation.**
+I’m a Shopify Developer specializing in custom theme development and full store setup. I build accessible websites that meet WCAG guidelines, ensuring usability for all users. With expertise in AI automation using Shopify Flow and Make.com, I streamline inventory, orders, and customer flows for e-commerce stores. I also run targeted Facebook Ads for private-label, white-label, and dropshipping brands—helping businesses grow with smart marketing and automation.
 ---
 
 ## 🔧 Technologies & Tools I Use
