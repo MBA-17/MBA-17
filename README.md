@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sheraz Akram</h1>
-<h3 align="center">Front-End Shopify & AI Automation Developer | Freelancer | E-commerce Specialist</h3>
+<h1 align="left">Hi 👋, I'm Sheraz Akram</h1>
+<h3 align="lft">Front-End Shopify & AI Automation Developer | Freelancer | E-commerce Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MBA-17&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -10,7 +10,6 @@
 ## 🧑‍💻 About Me
 
 <p align="left">I’m a Shopify Developer specializing in custom theme development and full store setup. I build accessible websites that meet WCAG guidelines, ensuring usability for all users. With expertise in AI automation using Shopify Flow and Make.com, I streamline inventory, orders, and customer flows for e-commerce stores. I also run targeted Facebook Ads for private-label, white-label, and dropshipping brands—helping businesses grow with smart marketing and automation.</p>
----
 
 ## 🔧 Technologies & Tools I Use
 
