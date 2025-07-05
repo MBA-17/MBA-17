@@ -3,6 +3,7 @@
 </p>
 <h1 align="left">Hi 👋, I'm Sheraz Akram</h1>
 <h3 align="lft">Front-End Shopify & AI Automation Developer | Freelancer | E-commerce Specialist</h3>
+
 ---
 
 ## 🧑‍💻 About Me
