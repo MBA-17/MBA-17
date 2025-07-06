@@ -96,6 +96,22 @@
 
 ---
 
+## 🧱 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MBA-17&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧮 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBA-17&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sherazakram17)
