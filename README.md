@@ -56,15 +56,20 @@
 
 ## 💼 Work Experience
 
-**🛍️ E-commerce Developer – Freelance**  
-`Jan 2024 – Present`  
+**🛍️ Shopify Developer – EcomBack Official**  
+`MAR 2025 – Present`  
 - Developed and optimized custom Shopify themes using Liquid  
 - Automated order processing and customer emails using Make.com and Shopify Flow  
 - Set up WCAG-compliant Shopify stores with accessibility in mind  
 - Handled full setup of white-label and dropshipping stores for clients  
 
-**🎯 Facebook Ads Specialist – Freelance**  
-`July 2023 – Dec 2023`  
+**🎯 WordPress Developer – Rankviz**  
+`JUN 2023 – MAR 2024`  
+- Developed and customized WordPress websites using Elementor, enhancing user experience and ensuring responsive design  
+- Managed WooCommerce stores, including setting up products, configuring payment gateways, and optimizing checkout processes
+
+**🎯 Social Media Marketing – Expedyte**  
+`DEC 2022 – MAR 2024`  
 - Launched and optimized ad campaigns for e-commerce clients  
 - Targeted niche audiences with A/B testing for better ROI  
 - Integrated Pixel tracking with Shopify stores  
@@ -75,7 +80,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🛍️ [Rest Nest - Shopify Furniture Store](#) | Full Shopify store built with custom theme & Liquid |
+| 🛍️ [Rest Nest - Furniture Affialate Business](#) | Ran Rest Nest’s social media & ad campaigns (USA) |
 | 🌐 [Starlink Devices - Shopify Store (PK)](#) | Conversion-focused custom product page |
 | 🤖 [AI Automated Shopify Workflow (Make.com)](#) | Automated abandoned cart emails & inventory sync |
 | 🎨 [WCAG-Compliant Shopify Theme](#) | Built with accessibility standards (AA) in mind |
@@ -95,7 +100,7 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sherazakram17)
 - 📧 Email: sherazrajput68@gmail.com 
-- 💼 Open to Work **freelance Shopify projects, AI automation consulting, and web development**
+- 💼 Open to Work **Shopify projects, AI automation consulting, and web development**
 
 ---
 
